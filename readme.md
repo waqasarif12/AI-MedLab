@@ -95,22 +95,6 @@ The project is structured into two main directories:
 - Access the application at `http://localhost:5173`.
 - Use the frontend interface to interact with the different modules (Customer, Doctor, Lab Assistant).
 
-## Contributors
-
-- **[Abdul Wahab](https://github.com/waqasarif12//Waqas-Arif)** - Full Stack Developer
-- **[Nafeesa Shehzadi](https://github.com/nafeesa-shehzadi)** - Frontend Developer
-
-## Collaboration
-
-We welcome contributions from everyone! If you are interested in contributing to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a Pull Request.
-
 For major changes, please open an issue first to discuss what you would like to change.
 
 Feel free to reach out to us with any questions or suggestions. Let's collaborate to extend the exposure and impact of this project!
