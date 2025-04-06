@@ -97,7 +97,7 @@ The project is structured into two main directories:
 
 ## Contributors
 
-- **[Abdul Wahab](https://github.com/abdul-wahab619)** - Full Stack Developer
+- **[Abdul Wahab](https://github.com/waqasarif12//Waqas-Arif)** - Full Stack Developer
 - **[Nafeesa Shehzadi](https://github.com/nafeesa-shehzadi)** - Frontend Developer
 
 ## Collaboration
